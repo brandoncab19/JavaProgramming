@@ -1,4 +1,4 @@
-package day_11_SwitchAndScanner;
+package Day11_SwitchAndScanner;
 
 /*
 3. a char variable named grade is given. use switch statement to print the following messages:

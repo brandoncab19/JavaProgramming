@@ -1,4 +1,4 @@
-package day_08_IfStatement;
+package Day08_IfStatement;
 
 /*
 1. Create a class called IdentifyNumber, and write a program that can identify if the

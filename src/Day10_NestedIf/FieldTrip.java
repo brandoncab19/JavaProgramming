@@ -1,4 +1,4 @@
-package day_10_NestedIf;
+package Day10_NestedIf;
 /*
  Create a class called FieldTrip. Your school goes on a Field trip each year. The place you go will be based on your grade. Given a variable gradeNumber (1-6) figure out the details of your field trip. Print the information at the end.
 

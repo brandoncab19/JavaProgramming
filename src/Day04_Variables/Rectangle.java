@@ -1,4 +1,4 @@
-package day_04_Variables;
+package Day04_Variables;
 /*
  2. Create a class named Rectangle, write a program that can calculate the
  area & perimeter of any given Rectangle

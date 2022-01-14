@@ -1,4 +1,4 @@
-package day_04_Variables;
+package Day04_Variables;
     /*
 6. Create a class named EmployeeInfo. declare the following variables:
                 1. name (String)

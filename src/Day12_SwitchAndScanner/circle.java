@@ -1,4 +1,4 @@
-package day_12_SwitchAndScanner;
+package Day12_SwitchAndScanner;
 
 import java.util.Scanner;
 

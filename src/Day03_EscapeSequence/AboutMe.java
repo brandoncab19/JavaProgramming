@@ -1,4 +1,4 @@
-package day03_EscapeSequence;
+package Day03_EscapeSequence;
 /*
    1. Create a class called AboutMe.java
             write a program to tell us about yourself:

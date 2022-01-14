@@ -1,4 +1,4 @@
-package day_04_Variables;
+package Day04_Variables;
 
 public class PrimitivesIntro {
 

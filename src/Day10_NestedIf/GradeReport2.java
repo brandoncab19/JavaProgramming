@@ -1,4 +1,4 @@
-package day_10_NestedIf;
+package Day10_NestedIf;
 
 /*
 int s = 135; //s

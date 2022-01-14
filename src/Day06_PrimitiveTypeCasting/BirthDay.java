@@ -1,4 +1,4 @@
-package day_06_PrimitiveTypeCasting;
+package Day06_PrimitiveTypeCasting;
 /*
 1. Create a class called BirthDay and create the following variable
              name, birthDay(int), birthMonth(String), birthYear(int)

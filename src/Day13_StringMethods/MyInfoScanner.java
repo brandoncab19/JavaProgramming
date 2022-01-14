@@ -1,4 +1,4 @@
-package day_13_StringClass;
+package Day13_StringMethods;
 
 import java.util.Scanner;
 

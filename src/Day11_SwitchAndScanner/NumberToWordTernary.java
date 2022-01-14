@@ -1,4 +1,4 @@
-package day_11_SwitchAndScanner;
+package Day11_SwitchAndScanner;
 /*
 2. Write a program that can convert numbers 0~9 to words.
 

@@ -1,4 +1,4 @@
-package day_09_IfStatement;
+package Day09_IfStatement;
 
 public class PassOrFail {
 

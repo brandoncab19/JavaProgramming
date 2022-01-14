@@ -1,4 +1,4 @@
-package day03_EscapeSequence;
+package Day03_EscapeSequence;
 
 public class PersonalInfo {
 

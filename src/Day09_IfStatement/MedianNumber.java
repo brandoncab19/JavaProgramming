@@ -1,4 +1,4 @@
-package day_09_IfStatement;
+package Day09_IfStatement;
 /*
 2. Create a class called MedianNumber. write a program that can find the median number between three DIFFERENT given integers
 

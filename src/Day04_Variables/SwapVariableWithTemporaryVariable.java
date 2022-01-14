@@ -1,4 +1,4 @@
-package day_04_Variables;
+package Day04_Variables;
 /*
 Practice Tasks:
 	1. write a program that can swipe two variables' value by using a temporary variable

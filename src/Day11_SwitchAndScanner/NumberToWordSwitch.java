@@ -1,4 +1,4 @@
-package day_11_SwitchAndScanner;
+package Day11_SwitchAndScanner;
 
 //2. NumberToWord (0~9)
 

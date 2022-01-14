@@ -1,3 +1,5 @@
+package Day06_PrimitiveTypeCasting;
+
 import java.util.Scanner;
 /*
 Write a program that asks user to input int values: areaCode and localNumber.

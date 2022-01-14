@@ -1,8 +1,6 @@
-package Day13_StringMethod_ReDo;
+package Day13_StringMethods;
 
 // import java.lang.String; <-- Any class in this package can be imported implicitly
-
-import javax.sound.midi.Soundbank;
 
 public class StringIntro {
     public static void main(String[] args) {

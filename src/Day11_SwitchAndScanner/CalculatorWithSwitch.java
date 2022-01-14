@@ -1,4 +1,4 @@
-package day_11_SwitchAndScanner;
+package Day11_SwitchAndScanner;
 
 public class CalculatorWithSwitch {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day_08_IfStatement;
+package Day08_IfStatement;
 
 public class SingleIfStatementIntro {
 

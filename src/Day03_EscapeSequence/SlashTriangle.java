@@ -1,4 +1,4 @@
-package day03_EscapeSequence;
+package Day03_EscapeSequence;
 
 /*
 2. Create a class called Triangle.java and print:

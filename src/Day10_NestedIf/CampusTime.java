@@ -1,4 +1,4 @@
-package day_10_NestedIf;
+package Day10_NestedIf;
 /*
 1.  Create a class called CampusTime, an integer variable named time is given with a
 number between 1~24 has been initialized, write a program that can find out if the campus

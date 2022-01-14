@@ -1,4 +1,4 @@
-package day_07_Operators;
+package Day07_Operators;
 /*
 1. create a class named Castings
             1.1 declare a variable of float named averageScore and initialize it to 20.5

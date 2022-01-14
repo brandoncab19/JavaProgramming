@@ -1,4 +1,4 @@
-package day_08_IfStatement;
+package Day08_IfStatement;
 /*
 2. Create a class called EvenlyDivisible, and write a program that can check if a number is
 evenly divisible by 2, 3, 5

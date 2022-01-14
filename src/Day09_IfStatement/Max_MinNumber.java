@@ -1,4 +1,4 @@
-package day_09_IfStatement;
+package Day09_IfStatement;
 /*
        1. Maximum number between two different numbers
         2. Minimum number between two different numbers

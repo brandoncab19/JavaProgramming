@@ -1,4 +1,4 @@
-package Day13_StringMethod_ReDo;
+package Day13_StringMethods;
 
 import java.util.Scanner;
 

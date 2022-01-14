@@ -1,4 +1,4 @@
-package day_10_NestedIf;
+package Day10_NestedIf;
 
 public class NameOfMonth {
     public static void main(String[] args) {

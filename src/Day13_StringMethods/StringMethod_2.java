@@ -1,4 +1,4 @@
-package Day13_StringMethod_ReDo;
+package Day13_StringMethods;
 
 public class StringMethod_2 {
     public static void main(String[] args) {

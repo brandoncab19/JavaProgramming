@@ -1,4 +1,4 @@
-package day_08_IfStatement;
+package Day08_IfStatement;
 /*
 3. Create a class called NumberOfDays, Write a program that can print the
 number of days in a month

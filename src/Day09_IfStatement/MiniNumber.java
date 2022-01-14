@@ -1,4 +1,4 @@
-package day_09_IfStatement;
+package Day09_IfStatement;
 /*
 1. Create a class called MinNumber, Write a program that can print the
 minimum number between two numbers, if both are equal then print Equal

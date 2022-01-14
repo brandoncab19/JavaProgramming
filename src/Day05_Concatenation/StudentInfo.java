@@ -1,4 +1,4 @@
-package day_05_Concatenation;
+package Day05_Concatenation;
 /*
 2. Create a class called StudentInfo, and declare variables for the followings:
                 1. student name

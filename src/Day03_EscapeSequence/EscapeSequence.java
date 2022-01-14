@@ -1,4 +1,4 @@
-package day03_EscapeSequence;
+package Day03_EscapeSequence;
 /*
 Escape sequences: Must be given with double quote
     \n: Starts a new line

@@ -1,4 +1,4 @@
-package day_06_PrimitiveTypeCasting;
+package Day06_PrimitiveTypeCasting;
 
 public class PrimitiveCastings {
 

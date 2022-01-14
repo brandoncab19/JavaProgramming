@@ -1,4 +1,4 @@
-package day_11_SwitchAndScanner;
+package Day11_SwitchAndScanner;
 
 public class DaysInWeekSwitch {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day_05_Concatenation;
+package Day05_Concatenation;
 /*
 1. create a class called variables_Practice & declare the following variables:
                             num1 = 100;

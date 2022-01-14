@@ -1,4 +1,4 @@
-package day_11_SwitchAndScanner;
+package Day11_SwitchAndScanner;
 /*
 1. Create a class called Browser. Write a program that can display the name of
 selected browser

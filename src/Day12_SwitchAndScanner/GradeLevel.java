@@ -1,4 +1,4 @@
-package day_12_SwitchAndScanner;
+package Day12_SwitchAndScanner;
 /*
 1. Create a class called GradeLevel, Given a number(byte) grade level determine and
 print which school type someone is in.

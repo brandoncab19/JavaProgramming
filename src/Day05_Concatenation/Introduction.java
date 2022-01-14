@@ -1,4 +1,4 @@
-package day_05_Concatenation;
+package Day05_Concatenation;
 
 public class Introduction {
 

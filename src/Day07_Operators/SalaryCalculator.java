@@ -1,4 +1,4 @@
-package day_07_Operators;
+package Day07_Operators;
 /*
 3. Create a class called SalaryCalculator.java
 			3.1 declare the following variables:
