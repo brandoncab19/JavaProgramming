@@ -1,4 +1,4 @@
-package day02_HelloWorld;
+package Day02_HelloWorld;
 
 public class HelloCydeo {
 
